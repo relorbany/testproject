@@ -1,0 +1,23 @@
+---
+title: "first-analysis"
+author: "Reem Elorbany"
+date: "2019-08-28"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+This is some test code.
+
+```{r}
+
+myname <- "R"
+myname
+theyear <- 2019
+in21years <- theyear + 21
+in21years
+
+```
+
